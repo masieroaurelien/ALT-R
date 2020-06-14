@@ -10,3 +10,4 @@ Le projet est composé de 3 dossiers :
 Toutes les images sont dans le dossier "medias".   
 Dans le dossier "css" il y a la feuille de style "style.css".   
 Dans le dossier "include" il y a le fichier "menu.html".   
+# ALT-R
