@@ -1,0 +1,80 @@
+body {
+	background-color: #F4F3F3;
+	padding: 15px;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 940px; 
+	padding: 0 10px;
+  }
+  
+  .header {
+	background: url("../medias/carousel/accueil1_doran_erickson.jpg") no-repeat center center; 
+	background-size: cover;
+	height: 800px;
+	text-align: center; 
+  }
+  
+  .header .container {
+	position: relative;
+	top: 200px;
+  }
+  
+img.presMbrs {
+	width: 200px;
+	height: auto;
+}
+
+div.presMbrs {
+	width: 200px;
+	display: block;
+	vertical-align: middle;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+/*
+li {
+	float: center;
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+}
+
+nav ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	color: white;
+	width: 100%;
+	height: auto;
+	position: sticky;
+  	top: 0;
+}
+*/
+section {
+	display: block;
+	text-align: left;
+}
+/*
+.footer { 
+	background: #000;
+	height: 80px; 
+	padding-bottom: 50px;
+}
+
+.footer p { 
+	color: #fff;
+	font-size: 14px;  
+	height: 80px; 
+	line-height: 80px;
+	margin: 0;  
+  }
+/*
